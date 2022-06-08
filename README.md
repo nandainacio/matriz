@@ -1,2 +1,2 @@
 # matriz
-Exercícios sobre Matriz realizado do curso C# Completo (Nélio Alves)
+Exercícios sobre Matriz do curso C# Completo (Nélio Alves)
